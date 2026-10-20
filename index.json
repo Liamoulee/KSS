@@ -1,107 +1,135 @@
 [
   {
     "id": "39e_css",
-    "name": "39e_css",
-    "author": "Unknown",
-    "description": "Community-made CSS theme for Krunker.",
+    "name": "39e css",
+    "author": "reizu & rinkishimo",
+    "description": "39e css",
     "file": "39e_css/39e_css.css"
   },
   {
     "id": "arkham",
     "name": "Arkham",
-    "author": "Unknown",
-    "description": "Community-made CSS theme for Krunker.",
+    "author": "-deusVult",
+    "description": "Unknown",
     "file": "Arkham/Arkham.css"
+  },
+  {
+    "id": "ausp",
+    "name": "ausp",
+    "author": "Unknown",
+    "description": "Unknown",
+    "file": "ausp/ausp.css"
   },
   {
     "id": "bipolar",
     "name": "Bipolar",
     "author": "Unknown",
-    "description": "Community-made CSS theme for Krunker.",
+    "description": "Unknown",
     "file": "Bipolar/Bipolar.css"
   },
   {
     "id": "blacklune",
     "name": "BlackLune",
-    "author": "Unknown",
-    "description": "Community-made CSS theme for Krunker.",
+    "author": "Unknown & Skal",
+    "description": "Unknown",
     "file": "BlackLune/BlackLune.css"
   },
   {
     "id": "brutal",
     "name": "Brutal",
-    "author": "Unknown",
-    "description": "Community-made CSS theme for Krunker.",
+    "author": "-deusVult",
+    "description": "Unknown",
     "file": "Brutal/Brutal.css"
   },
   {
     "id": "comfynord",
-    "name": "ComfyNord",
-    "author": "Unknown",
-    "description": "Community-made CSS theme for Krunker.",
+    "name": "Comfy Nord",
+    "author": "iona",
+    "description": "Unknown",
     "file": "ComfyNord/ComfyNord.css"
   },
   {
     "id": "cookies_css",
-    "name": "Cookies_CSS",
+    "name": "Cookies CSS",
     "author": "Unknown",
-    "description": "Community-made CSS theme for Krunker.",
+    "description": "Unknown",
     "file": "Cookies_CSS/Cookies_CSS.css"
   },
   {
     "id": "extra_clean_v3",
-    "name": "EXTRA_CLEAN_v3",
-    "author": "Unknown",
-    "description": "Community-made CSS theme for Krunker.",
+    "name": "EXTRA CLEAN v3",
+    "author": "thaddeuz",
+    "description": "Unknown",
     "file": "EXTRA_CLEAN_v3/EXTRA_CLEAN_v3.css"
   },
   {
-    "id": "glass",
-    "name": "Glass",
+    "id": "glass_v1",
+    "name": "Glass v1",
+    "author": "-deusVult",
+    "description": "Unknown",
+    "file": "Glass_v1/Glass_v1.css"
+  },
+  {
+    "id": "gr2n",
+    "name": "gr2n",
     "author": "Unknown",
-    "description": "Community-made CSS theme for Krunker.",
-    "file": "Glass/Glass.css"
+    "description": "Unknown",
+    "file": "gr2n/gr2n.css"
   },
   {
     "id": "jump_css",
-    "name": "Jump_css",
+    "name": "Jump css",
     "author": "Unknown",
-    "description": "Community-made CSS theme for Krunker.",
+    "description": "Unknown",
     "file": "Jump_css/Jump_css.css"
   },
   {
+    "id": "lemonfish_hud",
+    "name": "LEMONFISH CSS - IN-GAME HUD ONLY",
+    "author": "tae",
+    "description": "Unknown",
+    "file": "lemonfish-hud/lemonfish-hud.css"
+  },
+  {
+    "id": "mof1",
+    "name": "mof1",
+    "author": "epicX67",
+    "description": "Unknown",
+    "file": "mof1/mof1.css"
+  },
+  {
     "id": "mtz",
-    "name": "MTZ",
-    "author": "Unknown",
-    "description": "Community-made CSS theme for Krunker.",
+    "name": "MTZ CSS",
+    "author": "AirFxrce",
+    "description": "Unknown",
     "file": "MTZ/MTZ.css"
   },
   {
     "id": "neonbar",
     "name": "NeonBar",
-    "author": "Unknown",
-    "description": "Community-made CSS theme for Krunker.",
+    "author": "NamekujiLSDs & JINXZ",
+    "description": "Unknown",
     "file": "NeonBar/NeonBar.css"
   },
   {
     "id": "neonstorm",
     "name": "NeonStorm",
-    "author": "Unknown",
-    "description": "Community-made CSS theme for Krunker.",
+    "author": "NamekujiLSDs & JINXZ",
+    "description": "Unknown",
     "file": "NeonStorm/NeonStorm.css"
   },
   {
     "id": "nuke",
     "name": "Nuke",
     "author": "Unknown",
-    "description": "Community-made CSS theme for Krunker.",
+    "description": "Unknown",
     "file": "Nuke/Nuke.css"
   },
   {
     "id": "nuke_default",
     "name": "Nuke_default",
-    "author": "Unknown",
-    "description": "Community-made CSS theme for Krunker.",
+    "author": "Qwest500 & AnimeGirl47",
+    "description": "Unknown",
     "file": "Nuke_default/Nuke_default.css"
   },
   {
@@ -116,126 +144,98 @@
     "id": "old_panda",
     "name": "Old_Panda",
     "author": "Unknown",
-    "description": "Community-made CSS theme for Krunker.",
+    "description": "Unknown",
     "file": "Old_Panda/Old_Panda.css"
   },
   {
     "id": "omori",
     "name": "Omori",
     "author": "Unknown",
-    "description": "Community-made CSS theme for Krunker.",
+    "description": "Unknown",
     "file": "Omori/Omori.css"
   },
   {
     "id": "pandarium",
     "name": "Pandarium",
     "author": "Unknown",
-    "description": "Community-made CSS theme for Krunker.",
+    "description": "Unknown",
     "file": "Pandarium/Pandarium.css"
   },
   {
     "id": "skals",
     "name": "Skals",
     "author": "Unknown",
-    "description": "Community-made CSS theme for Krunker.",
+    "description": "Unknown",
     "file": "Skals/Skals.css"
   },
   {
-    "id": "v7oid",
-    "name": "V7oid",
-    "author": "Unknown",
-    "description": "Community-made CSS theme for Krunker.",
-    "file": "V7oid/V7oid.css"
-  },
-  {
-    "id": "vi5la",
-    "name": "Vi5la",
-    "author": "Unknown",
-    "description": "Community-made CSS theme for Krunker.",
-    "file": "Vi5la/Vi5la.css"
-  },
-  {
-    "id": "yoko_1",
-    "name": "Yoko_1",
-    "author": "Unknown",
-    "description": "Community-made CSS theme for Krunker.",
-    "file": "Yoko_1/Yoko_1.css"
-  },
-  {
-    "id": "ausp",
-    "name": "ausp",
-    "author": "Unknown",
-    "description": "Community-made CSS theme for Krunker.",
-    "file": "ausp/ausp.css"
-  },
-  {
-    "id": "gr2n",
-    "name": "gr2n",
-    "author": "Unknown",
-    "description": "Community-made CSS theme for Krunker.",
-    "file": "gr2n/gr2n.css"
-  },
-  {
-    "id": "lemonfish_hud",
-    "name": "lemonfish-hud",
-    "author": "Unknown",
-    "description": "Community-made CSS theme for Krunker.",
-    "file": "lemonfish-hud/lemonfish-hud.css"
-  },
-  {
-    "id": "mof1",
-    "name": "mof1",
-    "author": "Unknown",
-    "description": "Community-made CSS theme for Krunker.",
-    "file": "mof1/mof1.css"
-  },
-  {
     "id": "tae_og_2018_css",
-    "name": "tae_og_2018_css",
-    "author": "Unknown",
-    "description": "Community-made CSS theme for Krunker.",
+    "name": "Krunker Classic",
+    "author": "Tae & Rinkishimo",
+    "description": "Unknown",
     "file": "tae_og_2018_css/tae_og_2018_css.css"
   },
   {
     "id": "titanboi_old",
     "name": "titanboi_old",
     "author": "Unknown",
-    "description": "Community-made CSS theme for Krunker.",
+    "description": "Unknown",
     "file": "titanboi_old/titanboi_old.css"
   },
   {
     "id": "uwu_quake",
-    "name": "uwu_quake",
-    "author": "Unknown",
-    "description": "Community-made CSS theme for Krunker.",
+    "name": "uwu quake css",
+    "author": "reizu & rinkishimo",
+    "description": "Unknown",
     "file": "uwu_quake/uwu_quake.css"
+  },
+  {
+    "id": "v7oid",
+    "name": "V7oid",
+    "author": "Unknown",
+    "description": "Unknown",
+    "file": "V7oid/V7oid.css"
+  },
+  {
+    "id": "vi5la",
+    "name": "Vi5la",
+    "author": "Unknown",
+    "description": "Unknown",
+    "file": "Vi5la/Vi5la.css"
   },
   {
     "id": "water2noname",
     "name": "water2noname",
-    "author": "Unknown",
-    "description": "Community-made CSS theme for Krunker.",
+    "author": "sealfr0",
+    "description": "Unknown",
     "file": "water2noname/water2noname.css"
   },
   {
     "id": "xeno_xenon_old1",
     "name": "xeno_xenon_old1",
-    "author": "Unknown",
-    "description": "Community-made CSS theme for Krunker.",
+    "author": "DEADCELL & XenoXenon",
+    "description": "Unknown",
     "file": "xeno_xenon_old1/xeno_xenon_old1.css"
   },
   {
     "id": "xeno_xenon_old2",
     "name": "xeno_xenon_old2",
-    "author": "Unknown",
-    "description": "Community-made CSS theme for Krunker.",
+    "author": "DEADCELL",
+    "description": "Unknown",
     "file": "xeno_xenon_old2/xeno_xenon_old2.css"
+  },
+  {
+    "id": "yoko_1",
+    "name": "Yoko_1",
+    "author": "Unknown",
+    "description": "Unknown",
+    "file": "Yoko_1/Yoko_1.css"
   },
   {
     "id": "ztest",
     "name": "zTest",
     "author": "Unknown",
-    "description": "Community-made CSS theme for Krunker.",
+    "description": "Unknown",
     "file": "zTest/zTest.css"
   }
 ]
