@@ -66,12 +66,6 @@
     "file": "gr2n/gr2n.css"
   },
   {
-    "id": "jump",
-    "name": "Jump",
-    "author": "Unknown",
-    "file": "Jump/Jump.css"
-  },
-  {
     "id": "lemonfish_hud",
     "name": "LEMONFISH CSS - IN-GAME HUD ONLY",
     "author": "tae",
