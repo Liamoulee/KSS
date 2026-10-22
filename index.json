@@ -66,10 +66,10 @@
     "file": "gr2n/gr2n.css"
   },
   {
-    "id": "jump_css",
-    "name": "Jump css",
+    "id": "jump",
+    "name": "Jump",
     "author": "Unknown",
-    "file": "Jump_css/Jump_css.css"
+    "file": "Jump/Jump.css"
   },
   {
     "id": "lemonfish_hud",
